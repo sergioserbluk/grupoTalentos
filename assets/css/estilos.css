@@ -1,0 +1,38 @@
+.carru{
+    margin: 0 auto;
+   
+    width: 80%;
+    height: 400px;
+}
+.carru img{
+    width: 600px;
+    height: 400px;
+    
+  
+}
+.footer-content{
+    background: #000;
+    color: #fff;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.footer-content ul{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+.footer-content ul li{
+    list-style: none;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.ico{
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
