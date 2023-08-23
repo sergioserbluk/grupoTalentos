@@ -14,7 +14,7 @@
           <a class="nav-link" href="#">Quienes somos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">acerca de ...</a>
+          <a class="nav-link active" aria-current="page" href="acerca_de">acerca de ...</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Registrarse</a>
