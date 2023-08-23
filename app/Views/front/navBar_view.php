@@ -17,7 +17,7 @@
           <a class="nav-link active" aria-current="page" href="acerca_de">acerca de ...</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Registrarse</a>
+          <a class="nav-link active" aria-current="page" href="acerca_view">Registrarse</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Login</a>

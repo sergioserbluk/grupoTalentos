@@ -18,4 +18,11 @@ class Home extends BaseController
        echo view('front/acerca_de');
        echo view('front/footer_view');
     }
+    public function acerca_view()
+      {
+         echo view('front/head_view');
+         echo view('front/navBar_view');
+         echo view('front/acerca_view');
+         echo view('front/footer_view');
+      }
 }
