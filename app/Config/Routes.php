@@ -30,8 +30,9 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
-$routes->get('/acerca_de', 'Home::acerca_de');
-$routes->get('/acerca_view', 'Home::acerca_view');
+$routes->get('acerca_de', 'Home::acerca_de');
+$routes->get('acerca_view', 'Home::acerca_view');
+$routes->get('principal', 'Home::principal');
 
 /*
  * --------------------------------------------------------------------
